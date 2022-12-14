@@ -1,0 +1,48 @@
+
+.container {
+    text-align: center;
+    margin: auto;
+    font-size:medium;
+    width: 863.84px;
+    height: 62.4px
+    
+}
+.bgcolor {
+    background-color: #dddddd;
+}
+
+.box{
+    background-color: #7EE5DA;
+    float: left;
+    width: 319.18px;
+    height: 76.4px; 
+    margin-right: 3px;
+    margin-top: 2px;
+
+    
+}
+
+.box2{
+    background-color: #70CCC2;
+    float: left;
+    width: 172.76px;
+    height: 76.4px;
+    margin-top: 2px;
+
+
+}
+
+.box3{
+    background-color: #62B3AA;
+    float: right;
+    width: 366px;
+    height: 76.4;
+    font-size: 13.9px;
+    margin-top: 2px;
+    
+
+}
+
+.clear{
+    clear: both;
+}
